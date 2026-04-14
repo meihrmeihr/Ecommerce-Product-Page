@@ -12,7 +12,7 @@ export default function Home() {
             </div>
             <footer className="text-center my-6 mx-2">
                 Challenge by <Link to="https://www.frontendmentor.io?ref=challenge" target="_blank" className="text-orange-500 underline">Frontend Mentor</Link>. 
-                Coded by <Link to="#" target="_blank" className="text-orange-500 underline">Mahir</Link>.
+                Coded by <Link to="https://github.com/meihrmeihr" target="_blank" className="text-orange-500 underline">Mahir</Link>.
             </footer>
         </>
     );
