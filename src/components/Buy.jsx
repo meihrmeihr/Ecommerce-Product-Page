@@ -1,4 +1,4 @@
-import { useContext, useState } from "react";
+import { useContext } from "react";
 import cart from "../assets/images/icon-cart.svg";
 import { Count } from "./context/Countcontext";
 export default function Buy() {
