@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@theme{
+    --font-kumbh-sans: "Kumbh Sans", sans-serif;
+}
